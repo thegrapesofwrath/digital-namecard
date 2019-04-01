@@ -1,10 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
 N:Hartley;Shawn;;;
-FN: Hartley  Shawn 
+FN: Shawn Hartley
 ORG:UAMS;
 TITLE:Software Developer
-PHOTO;VALUE=URI;TYPE=GIF:https://github.com/thegrapesofwrath/digital-namecard\shawn.png
+PHOTO;VALUE=URI;TYPE=PNG:http://github.com/thegrapesofwrath/digital-namecard/raw/master/shawn.png
 EMAIL;type=INTERNET;type=HOME;type=pref:shawn-hartley@sbcglobal.net	
 EMAIL;type=INTERNET;type=WORK;type=pref:dhartley@uams.edu
 TEL;type=CELL;type=VOICE:+1 501 472 8234
