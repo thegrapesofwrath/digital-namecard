@@ -9,7 +9,7 @@ EMAIL;type=INTERNET;type=HOME;type=pref:shawn-hartley@sbcglobal.net
 EMAIL;type=INTERNET;type=WORK;type=pref:dhartley@uams.edu
 TEL;type=CELL;type=VOICE:+1 501 472 8234
 TEL;type=WORK;type=VOICE:+1 501 320 7084
-item1.ADR;type=WORK;type=pref:;;1123 S. University, Suite 924;;;72204;Little Rock
+item1.ADR;type=WORK;type=pref:;;1123 S. University\, Suite 924;;;72204;Little Rock
 item1.X-ABADR:sg
 item2.URL;type=pref:uams.edu
 item2.X-ABLabel:_$!<HomePage>!$_
